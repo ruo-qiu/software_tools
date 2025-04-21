@@ -1,0 +1,4 @@
+1.创建保存项目的文件夹
+2.将文件夹的路径添加到work.cfg中，需要修改baseDir路径和filePath路径，将默认的D:\project_management修改为自己的文件夹路径即可
+3.打开work.exe即可进入项目管理
+4.具体使用进入应用中看说明即可
